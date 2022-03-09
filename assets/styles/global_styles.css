@@ -1,0 +1,15 @@
+.col-heading { 
+    font-weight: bold; 
+}
+
+.btn-normal {
+    margin: 1.35em !important;
+}
+
+.btn-medium {
+    margin: 0.27rem !important;
+}
+
+.btn-small {
+    margin: 0.002em !important;
+}
